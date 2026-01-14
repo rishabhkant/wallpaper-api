@@ -17,5 +17,8 @@
   "bugs": {
     "url": "https://github.com/rishabhkant/wallpaper-api/issues"
   },
-  "homepage": "https://github.com/rishabhkant/wallpaper-api#readme"
+  "homepage": "https://github.com/rishabhkant/wallpaper-api#readme",
+  "dependencies": {
+    "canvas": "^3.2.1"
+  }
 }
